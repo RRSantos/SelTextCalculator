@@ -1,5 +1,5 @@
 # SelTextCalculator
-This plugin can sum or multiply numbers on selected text in Notepad Plus Plus.
+This plugin can sum and multiply numbers on selected text in Notepad Plus Plus.
 
 ## KeyBindings
 - Ctrl + Alt + A : Sum all numbers in selected text;
