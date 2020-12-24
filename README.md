@@ -7,10 +7,10 @@ This plugin can sum or multiply numbers on selected text in Notepad Plus Plus.
 
 ## Screen shots
 ### Sum
-![/images/sum.png]
+![Messagebox showing the sum of numbers in selected text](/images/sum.png)
 Messagebox showing the sum of numbers in selected text
 
 
 ### Multiplication
-![/images/multiply.png]
+![Messagebox showing the multiplication of numbers in selected text](/images/multiply.png)
 Messagebox showing the multiplication of numbers in selected text
